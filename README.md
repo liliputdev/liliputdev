@@ -124,7 +124,7 @@ I enjoy transforming ideas into polished digital products — from **visual conc
 ### Design Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,XD,AF,Pr,blender" height="25" alt="Figma Photoshop Illustrator XD ">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,ae,pr,blender,xd" height="25" alt="Figma Photoshop Illustrator XD ">
 </p>
 
 ### Tools & Platforms
