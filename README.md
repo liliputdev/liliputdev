@@ -72,7 +72,7 @@ I enjoy transforming ideas into polished digital products — from **visual conc
 
 ## Design + Development
 
-<p align="center">
+<p align="left">
 
   <img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma" height="24" alt="Photoshop Illustrator Figma">
 
