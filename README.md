@@ -72,15 +72,31 @@ I enjoy transforming ideas into polished digital products — from **visual conc
 
 ## Design + Development
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,blender,figma,xd,html,css,js,ts,react,nextjs,nodejs,tailwind,mongodb,postgres,git,github,vscode,vercel" height="55" alt="Creative and Development Tools">
+### Creative Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,figma,blender,canva" height="55" alt="Photoshop Illustrator After Effects Premiere Pro Figma Blender Canva">
 </p>
 
 <p align="center">
-  <sub>Graphic Design • Motion • 3D • UI/UX • Web • Full-Stack • Creative Technology</sub>
+  <img src="https://skillicons.dev/icons?i=xd,sketch,framer,spline,procreate,krita,gimp,inkscape" height="55" alt="Adobe XD Sketch Framer Spline Procreate Krita GIMP Inkscape">
 </p>
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=lightroom,indesign,animate,capcut,davinci" height="55" alt="Lightroom InDesign Animate CapCut DaVinci Resolve">
+</p>
+
+### Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,mongodb,postgres,git,github,vscode,vercel" height="55" alt="Development Tools">
+</p>
+
+<p align="center">
+  <sub>
+    Graphic Design • Branding • UI/UX • Motion Graphics • Video Editing • 3D • Illustration • Frontend • Backend • Full-Stack
+  </sub>
+</p>
 
 <!-- ===================================================== -->
 
