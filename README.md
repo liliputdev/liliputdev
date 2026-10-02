@@ -212,6 +212,6 @@ I enjoy exploring new technologies, building practical applications, and improvi
 
 ### 🚀 Learning something new every day.
 
-<i>Code • Create • Learn • Repeat</i>
+<i>Code • Create • Commit</i>
 
 </p>
