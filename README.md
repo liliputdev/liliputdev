@@ -75,7 +75,7 @@ I enjoy transforming ideas into polished digital products — from **visual conc
 ### Creative Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,figma,blender,canva" height="55" alt="Photoshop Illustrator After Effects Premiere Pro Figma Blender Canva">
+  <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,figma,blender" height="55" alt="Photoshop Illustrator After Effects Premiere Pro Figma Blender">
 </p>
 
 <p align="center">
