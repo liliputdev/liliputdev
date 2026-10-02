@@ -73,11 +73,11 @@ I enjoy transforming ideas into polished digital products — from **visual conc
 ## Design + Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,blender,fresco,krita,figma,html,css,js,ts,react,nextjs,nodejs" height="20" alt="Photoshop Illustrator After Effects Premiere Pro Figma HTML CSS JavaScript TypeScript React Next.js Node.js">
+  <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,blender,fresco,figma,xd,html,css,js,ts,react,nextjs,nodejs,tailwind,mongodb,postgres,git,github,vscode,vercel" height="20" alt="Creative and Development Tools">
 </p>
 
 <p align="center">
-  <sub>Visual Design • UI/UX • Frontend • Backend • Full-Stack Development</sub>
+  <sub>Graphic Design • Motion • 3D • UI/UX • Web • Full-Stack • Creative Technology</sub>
 </p>
 
 ---
