@@ -73,7 +73,7 @@ I enjoy transforming ideas into polished digital products — from **visual conc
 ## Design + Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,figma,html,css,js,ts,react,nextjs,nodejs" height="20" alt="Photoshop Illustrator After Effects Premiere Pro Figma HTML CSS JavaScript TypeScript React Next.js Node.js">
+  <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,blender,fresco,krita,figma,html,css,js,ts,react,nextjs,nodejs" height="20" alt="Photoshop Illustrator After Effects Premiere Pro Figma HTML CSS JavaScript TypeScript React Next.js Node.js">
 </p>
 
 <p align="center">
