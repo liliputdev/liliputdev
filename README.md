@@ -5,7 +5,7 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src="./banner.png" alt="Abdun Nur GitHub Banner" width="100%">
+  <img src="./Banner.png" alt="Abdun Nur GitHub Banner" width="100%">
 </p>
 
 <!-- ===================================================== -->
