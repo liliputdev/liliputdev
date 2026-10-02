@@ -80,7 +80,7 @@ I enjoy transforming ideas into polished digital products — from **visual conc
 
 ### Development
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,mongodb,postgres,git,github,vscode,vercel" height="55" alt="Development Tools">
 </p>
 
