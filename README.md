@@ -1,6 +1,6 @@
 <!-- ===================================================== -->
 
-<!--                        BANNER                         -->
+<!--                         BANNER                         -->
 
 <!-- ===================================================== -->
 
@@ -10,32 +10,32 @@
 
 <!-- ===================================================== -->
 
-<!--                       INTRO                          -->
+<!--                         INTRO                          -->
 
 <!-- ===================================================== -->
 
 <h1 align="center">Hi, I'm Abdun Nur 👋</h1>
 
-<h3 align="center">Aspiring Software Engineer</h3>
+<h3 align="center">Full-Stack Designer • Aspiring Software Engineer</h3>
 
 <p align="center">
-  <b>Learning • Building • Exploring</b>
+  <b>Designing • Coding • Building • Exploring</b>
 </p>
 
 <p align="center">
-  I enjoy turning ideas into modern, functional web applications
-  while continuously improving my software engineering skills.
+  I bridge the gap between <b>design and development</b> by creating
+  modern, functional, and visually engaging digital experiences.
 </p>
 
 <p align="center">
   <a href="https://github.com/liliputdev">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/-abdunnur/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.behance.net/_abdunnur">
-    <img src="https://img.shields.io/badge/Behance-000000?style=for-the-badge&logo=behance&logoColor=white">
+    <img src="https://img.shields.io/badge/Behance-111111?style=flat-square&logo=behance&logoColor=white" alt="Behance">
   </a>
 </p>
 
@@ -43,23 +43,52 @@
 
 <!-- ===================================================== -->
 
-<!--                      ABOUT ME                         -->
+<!--                       ABOUT ME                         -->
 
 <!-- ===================================================== -->
 
 ## About Me
 
-I'm an aspiring software engineer focused on learning modern web development and software engineering through hands-on projects.
+I'm a **Full-Stack Designer and aspiring Software Engineer** focused on combining creative design thinking with modern software development.
 
-I enjoy exploring new technologies, building practical applications, and improving my problem-solving skills through code.
+I enjoy transforming ideas into polished digital products — from **visual concepts and UI design to functional web applications and backend systems**.
 
 ### Currently
 
+* 🎨 Designing **modern UI/UX & digital experiences**
 * 🌱 Exploring **Next.js, TypeScript & Node.js**
-* 💻 Building **modern web applications**
+* 💻 Building **full-stack web applications**
 * 📚 Learning **software engineering & backend development**
-* 🔌 Exploring **APIs, databases & full-stack development**
-* 🚀 Turning ideas into **real-world projects**
+* 🔌 Exploring **APIs, databases & full-stack architecture**
+* 🚀 Turning ideas into **real-world products**
+
+---
+
+<!-- ===================================================== -->
+
+<!--                    DESIGN + CODE                       -->
+
+<!-- ===================================================== -->
+
+## Design + Development
+
+<p align="center">
+
+  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma" height="24" alt="Photoshop Illustrator Figma">
+
+   
+
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" height="24" alt="HTML CSS JavaScript TypeScript">
+
+   
+
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs" height="24" alt="React Next.js Node.js">
+
+</p>
+
+<p align="center">
+  <sub>Visual Design • UI/UX • Frontend • Backend • Full-Stack Development</sub>
+</p>
 
 ---
 
@@ -74,20 +103,84 @@ I enjoy exploring new technologies, building practical applications, and improvi
 ### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css" height="45" alt="JavaScript TypeScript HTML CSS">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css" height="25" alt="JavaScript TypeScript HTML CSS">
 </p>
 
 ### Frameworks & Libraries
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind" height="45" alt="React Next.js Node.js Tailwind CSS">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind" height="25" alt="React Next.js Node.js Tailwind CSS">
+</p>
+
+### Databases & Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" height="25" alt="MongoDB PostgreSQL">
+</p>
+
+### Design Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" height="25" alt="Figma Photoshop Illustrator">
 </p>
 
 ### Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel" height="45" alt="Git GitHub VS Code npm Vercel">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel" height="25" alt="Git GitHub VS Code npm Vercel">
 </p>
+
+---
+
+<!-- ===================================================== -->
+
+<!--                   WHAT I DO                           -->
+
+<!-- ===================================================== -->
+
+## What I Do
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### 🎨 Design
+
+UI/UX Design
+Brand Identity
+Visual Design
+Social Media Graphics
+Motion Graphics
+
+</td>
+
+<td width="33%" align="center">
+
+### 💻 Development
+
+Frontend Development
+Backend Development
+Full-Stack Applications
+REST APIs
+Database Integration
+
+</td>
+
+<td width="33%" align="center">
+
+### 🚀 Build
+
+Creative Products
+Web Applications
+Interactive Interfaces
+Digital Experiences
+Real-World Projects
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -116,6 +209,10 @@ I enjoy exploring new technologies, building practical applications, and improvi
   Fitness tracking web application built with modern web technologies.
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" height="20" alt="Next.js React TypeScript Tailwind CSS">
+</p>
+
 </td>
 
 <td width="50%">
@@ -128,7 +225,7 @@ I enjoy exploring new technologies, building practical applications, and improvi
 
 <p align="center">
   <a href="https://github.com/liliputdev?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Repositories-111111?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/View_Repositories-111111?style=flat-square&logo=github&logoColor=white">
   </a>
 </p>
 
@@ -160,7 +257,7 @@ I enjoy exploring new technologies, building practical applications, and improvi
 
 <!-- ===================================================== -->
 
-<!--                     STREAK                            -->
+<!--                  CONTRIBUTION STREAK                   -->
 
 <!-- ===================================================== -->
 
@@ -174,27 +271,51 @@ I enjoy exploring new technologies, building practical applications, and improvi
 
 <!-- ===================================================== -->
 
+<!--                     CURRENT FOCUS                      -->
+
+<!-- ===================================================== -->
+
+## Current Focus
+
+<p align="center">
+
+`Full-Stack Development`
+  •  
+`TypeScript`
+  •  
+`Next.js`
+  •  
+`Node.js`
+  •  
+`UI/UX`
+  •  
+`Software Engineering`
+
+</p>
+
+---
+
+<!-- ===================================================== -->
+
 <!--                     CONNECT                           -->
 
 <!-- ===================================================== -->
 
-## Let's Connect
+## Connect With Me
 
 <p align="center">
 
-<a href="https://github.com/liliputdev">
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="42" alt="GitHub">
-</a>
-&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/liliputdev">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub">
+  </a>
 
-<a href="https://www.linkedin.com/in/-abdunnur/">
-  <img src="https://cdn.simpleicons.org/linkedin/FFFFFF" width="42" alt="LinkedIn">
-</a>
-&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/-abdunnur/">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn">
+  </a>
 
-<a href="https://www.behance.net/_abdunnur">
-  <img src="https://cdn.simpleicons.org/behance/FFFFFF" width="42" alt="Behance">
-</a>
+  <a href="https://www.behance.net/_abdunnur">
+    <img src="https://img.shields.io/badge/Behance-111111?style=flat-square&logo=behance&logoColor=FFFFFF" alt="Behance">
+  </a>
 
 </p>
 
@@ -208,10 +329,20 @@ I enjoy exploring new technologies, building practical applications, and improvi
 
 ---
 
+<!-- ===================================================== -->
+
+<!--                        FOOTER                          -->
+
+<!-- ===================================================== -->
+
 <p align="center">
 
 ### 🚀 Learning something new every day.
 
-<i>Code • Create • Commit</i>
+<i>Design • Code • Create • Commit</i>
 
+</p>
+
+<p align="center">
+  <sub>Built with curiosity, creativity & code.</sub>
 </p>
