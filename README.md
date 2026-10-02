@@ -78,11 +78,6 @@ I enjoy transforming ideas into polished digital products — from **visual conc
   <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,figma,blender,xd" height="55" alt="Photoshop Illustrator After Effects Premiere Pro Figma Blender xd">
 </p>
 
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=lightroom,indesign,animate,capcut,davinci" height="55" alt="Lightroom InDesign Animate CapCut DaVinci Resolve">
-</p>
-
 ### Development
 
 <p align="center">
