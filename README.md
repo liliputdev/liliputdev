@@ -18,7 +18,7 @@
 
 ## About Me
 
-I'm an aspiring software engineer passionate about building modern web applications and solving problems through code. I'm currently developing my skills in frontend and backend development while learning software engineering through hands-on projects.
+I'm an aspiring software engineer passionate about building modern web applications and solving problems through code. I'm continuously developing my skills in frontend, backend, and full-stack development through hands-on projects.
 
 ### Currently
 
@@ -35,19 +35,19 @@ I'm an aspiring software engineer passionate about building modern web applicati
 ### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css" alt="Languages" />
 </p>
 
 ### Frameworks & Libraries
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind" alt="Frameworks and Libraries" />
 </p>
 
 ### Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel" alt="Tools and Platforms" />
 </p>
 
 ---
@@ -56,7 +56,7 @@ I'm an aspiring software engineer passionate about building modern web applicati
 
 <p align="center">
   <a href="https://github.com/liliputdev/B14-A6-Fit-Log">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=liliputdev&repo=B14-A6-Fit-Log&theme=transparent&hide_border=true" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liliputdev&theme=github_dark" />
   </a>
 </p>
 
@@ -81,12 +81,20 @@ I'm an aspiring software engineer passionate about building modern web applicati
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=liliputdev&show_icons=true&theme=transparent&hide_border=true" height="170" />
-  <img src="https://streak-stats.demolab.com?user=liliputdev&theme=transparent&hide_border=true" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liliputdev&theme=github_dark" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liliputdev&layout=compact&theme=transparent&hide_border=true" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=liliputdev&theme=github_dark" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liliputdev&theme=github_dark" height="180" />
+</p>
+
+---
+
+## GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=liliputdev&theme=github-dark&hide_border=true" />
 </p>
 
 ---
