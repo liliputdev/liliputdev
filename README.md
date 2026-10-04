@@ -216,6 +216,12 @@ I enjoy transforming ideas into polished digital products — from **visual conc
   <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="IFTTT" height="40" />
 </p>
 
+### Game Engines
+
+<p>
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" height="40" />
+</p>
+
 ### No-Code & AI Development
 
 <p>
