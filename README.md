@@ -149,7 +149,7 @@ I enjoy transforming ideas into polished digital products — from **visual conc
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Better_Auth-000000?style=for-the-badge&logo=auth0&logoColor=white" />
+  <img src="https://img.shields.io/badge/Better_Auth-000000?style=for-the-badge&logo=betterauth&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
 </p>
@@ -168,6 +168,8 @@ I enjoy transforming ideas into polished digital products — from **visual conc
 
 <p>
   <img src="https://img.shields.io/badge/MERN_Stack-3FA037?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js_Stack-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full--Stack-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ### Design & Creative
@@ -194,6 +196,7 @@ I enjoy transforming ideas into polished digital products — from **visual conc
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" />
+  <img src="https://img.shields.io/badge/Environment_Variables-000000?style=for-the-badge&logo=dotenv&logoColor=white" />
 </p>
 
 ### AI & Engineering
@@ -203,8 +206,9 @@ I enjoy transforming ideas into polished digital products — from **visual conc
   <img src="https://img.shields.io/badge/Agentic_AI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/Software_Engineering-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/RESTful_Services-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Development-1572B6?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </p>
-
 
 
 
