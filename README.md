@@ -190,6 +190,7 @@ I enjoy transforming ideas into polished digital products — from **visual conc
 ### Frameworks
 
 <p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
