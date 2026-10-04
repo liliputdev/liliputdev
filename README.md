@@ -590,7 +590,7 @@ Focused on writing maintainable code, developing responsive interfaces, and inte
 
 
 
----
+
 
 ## ☕ Support My Work
 
@@ -618,7 +618,7 @@ Focused on writing maintainable code, developing responsive interfaces, and inte
   <sub>If you find my work useful, consider supporting my creative and development journey.</sub>
 </p>
 
-
+---
 <!-- ===================================================== -->
 
 <!--                        FOOTER                          -->
