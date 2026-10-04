@@ -593,26 +593,27 @@ Focused on writing maintainable code, developing responsive interfaces, and inte
 ---
 ## ☕ Support My Work
 
+## ☕ Support My Work
+
 <p align="center">
 
-  <a href="https://www.buymeacoffee.com/YOUR_USERNAME">
-    <img src="https://gprm.itsvg.in/bmc.svg" alt="Buy Me a Coffee">
-  </a>
+<a href="https://www.buymeacoffee.com/YOUR_USERNAME">
+<img src="https://gprm.itsvg.in/bmc.svg" alt="Buy Me a Coffee">
+</a>
 
-  <a href="https://www.paypal.me/YOUR_USERNAME">
-    <img src="https://gprm.itsvg.in/paypal.svg" alt="PayPal">
-  </a>
+<a href="https://www.paypal.me/YOUR_USERNAME">
+<img src="https://gprm.itsvg.in/paypal.svg" alt="PayPal">
+</a>
 
-  <a href="https://www.patreon.com/YOUR_USERNAME">
-    <img src="https://gprm.itsvg.in/patreon.svg" alt="Patreon">
-  </a>
+<a href="https://www.patreon.com/YOUR_USERNAME">
+<img src="https://gprm.itsvg.in/patreon.svg" alt="Patreon">
+</a>
 
-  <a href="https://ko-fi.com/YOUR_USERNAME">
-    <img src="https://gprm.itsvg.in/kofi.svg" alt="Ko-fi">
-  </a>
+<a href="https://ko-fi.com/YOUR_USERNAME">
+<img src="https://gprm.itsvg.in/kofi.svg" alt="Ko-fi">
+</a>
 
 </p>
-
 <p align="center">
   <sub>If you find my work useful, consider supporting my creative and development journey.</sub>
 </p>
