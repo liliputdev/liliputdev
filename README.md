@@ -348,43 +348,92 @@ Focused on writing maintainable code, developing responsive interfaces, and inte
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liliputdev&theme=github_dark" width="100%" alt="GitHub Profile Details"/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liliputdev&theme=github_dark"
+    width="100%"
+    alt="GitHub Profile Details"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=liliputdev&theme=github_dark" width="49%" alt="GitHub Statistics"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liliputdev&theme=github_dark" width="49%" alt="Repositories per Language"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=liliputdev&theme=dark&background=0D1117&border=238636&stroke=238636&ring=3FB950&fire=3FB950&currStreakLabel=3FB950&sideLabels=3FB950&dates=8B949E" width="70%" alt="GitHub Contribution Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=liliputdev&bg_color=0d1117&color=3fb950&line=238636&point=3fb950&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=liliputdev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9&icon_color=3FB950&ring_color=3FB950&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liliputdev&layout=compact&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9&langs_count=8" height="180" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=liliputdev&label=Profile%20Views&color=238636&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/liliputdev?label=Followers&style=for-the-badge&color=238636&labelColor=0D1117" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/liliputdev?label=Stars&style=for-the-badge&color=238636&labelColor=0D1117" alt="GitHub Stars"/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=liliputdev&theme=github_dark"
+    width="49%"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liliputdev&theme=github_dark"
+    width="49%"
+    alt="Repositories per Language"
+  />
 </p>
 
 <!-- ===================================================== -->
 
-<!--                  CONTRIBUTION STREAK                   -->
+<!--                 CONTRIBUTION STREAK                   -->
 
 <!-- ===================================================== -->
 
-## Contribution Streak
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=liliputdev&theme=github-dark&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel=3FB950&sideLabels=3FB950&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"
+    width="80%"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+<!-- ===================================================== -->
+
+<!--                  ACTIVITY GRAPH                       -->
+
+<!-- ===================================================== -->
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=liliputdev&theme=github-dark&hide_border=true&background=0D1117" width="80%">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=liliputdev&bg_color=0D1117&color=3FB950&line=238636&point=3FB950&area=true&area_color=238636&hide_border=true"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
+</p>
+
+<!-- ===================================================== -->
+
+<!--                 GITHUB STATISTICS                     -->
+
+<!-- ===================================================== -->
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=liliputdev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9&icon_color=3FB950"
+    height="180"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=liliputdev&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9"
+    height="180"
+    alt="Top Programming Languages"
+  />
+</p>
+
+<!-- ===================================================== -->
+
+<!--                    PROFILE METRICS                    -->
+
+<!-- ===================================================== -->
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=liliputdev&label=Profile%20Views&color=238636&style=for-the-badge"
+    alt="Profile Views"
+  />
+  <img
+    src="https://img.shields.io/github/followers/liliputdev?label=Followers&style=for-the-badge&color=238636&labelColor=0D1117"
+    alt="GitHub Followers"
+  />
+  <img
+    src="https://img.shields.io/github/stars/liliputdev?label=Stars&style=for-the-badge&color=238636&labelColor=0D1117"
+    alt="GitHub Stars"
+  />
 </p>
 
 
