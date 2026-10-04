@@ -28,16 +28,29 @@
 </p>
 
 <p align="center">
+
   <a href="https://github.com/liliputdev">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-%40liliputdev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub @liliputdev">
   </a>
+
   <a href="https://www.linkedin.com/in/-abdunnur/">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-%40abdunnur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn @abdunnur">
   </a>
+
   <a href="https://www.behance.net/_abdunnur">
-    <img src="https://img.shields.io/badge/Behance-111111?style=flat-square&logo=behance&logoColor=white" alt="Behance">
+    <img src="https://img.shields.io/badge/Behance-%40__abdunnur-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance @_abdunnur">
   </a>
+
+  <a href="https://www.facebook.com/de.abdunnur">
+    <img src="https://img.shields.io/badge/Facebook-%40de.abdunnur-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook @de.abdunnur">
+  </a>
+
+  <a href="https://www.instagram.com/de.abdunnur">
+    <img src="https://img.shields.io/badge/Instagram-%40de.abdunnur-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @de.abdunnur">
+  </a>
+
 </p>
+
 
 ---
 
@@ -304,18 +317,27 @@ Real-World Projects
 <p align="center">
 
   <a href="https://github.com/liliputdev">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-%40liliputdev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub @liliputdev">
   </a>
 
   <a href="https://www.linkedin.com/in/-abdunnur/">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-%40abdunnur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn @abdunnur">
   </a>
 
   <a href="https://www.behance.net/_abdunnur">
-    <img src="https://img.shields.io/badge/Behance-111111?style=flat-square&logo=behance&logoColor=FFFFFF" alt="Behance">
+    <img src="https://img.shields.io/badge/Behance-%40__abdunnur-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance @_abdunnur">
+  </a>
+
+  <a href="https://www.facebook.com/de.abdunnur">
+    <img src="https://img.shields.io/badge/Facebook-%40de.abdunnur-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook @de.abdunnur">
+  </a>
+
+  <a href="https://www.instagram.com/de.abdunnur">
+    <img src="https://img.shields.io/badge/Instagram-%40de.abdunnur-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @de.abdunnur">
   </a>
 
 </p>
+
 
 ---
 
