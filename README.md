@@ -344,3 +344,6 @@ Real-World Projects
 <p align="center">
   <sub>Built with curiosity, creativity & code.</sub>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=liliputdev&label=PROFILE%20VIEWS&color=00C896&style=for-the-badge" alt="Profile Views" />
+</p>
