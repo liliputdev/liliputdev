@@ -320,6 +320,7 @@ Real-World Projects
 
 ### The North Pole
 Graphic Designer
+
 Mar 2025 – Aug 2026
 
 Created visual assets for digital and marketing campaigns, including social media graphics, promotional designs, and branded content.
@@ -328,6 +329,7 @@ Collaborated with team members to develop creative solutions for various design 
 
 ### Freelance Design Projetcs
 Visual Designer & Web Developer
+
 2023 – Present
 
 Designed logos, branding materials, social media graphics, thumbnails, posters, advertisements, and other digital assets for clients.
@@ -336,6 +338,7 @@ Combined visual design and development skills to create cohesive digital experie
 
 ### Self Employed
 Personal & Open-Source Projects
+
 2024 – Present
 
 Building full-stack web applications while continuously expanding software engineering skills.
