@@ -52,7 +52,7 @@
 </p>
 
 
----
+
 
 <!-- ===================================================== -->
 
@@ -75,7 +75,7 @@ I enjoy transforming ideas into polished digital products — from **visual conc
 * 🔌 Exploring **APIs, databases & full-stack architecture**
 * 🚀 Turning ideas into **real-world products**
 
----
+
 
 <!-- ===================================================== -->
 
@@ -141,7 +141,7 @@ I enjoy transforming ideas into polished digital products — from **visual conc
   <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel" height="25" alt="Git GitHub VS Code npm Vercel">
 </p>
 
----
+
 
 <!-- ===================================================== -->
 
@@ -193,7 +193,7 @@ Real-World Projects
 </tr>
 </table>
 
----
+
 
 <!-- ===================================================== -->
 
@@ -245,7 +245,7 @@ Real-World Projects
 </tr>
 </table>
 
----
+
 
 <!-- ===================================================== -->
 
@@ -264,7 +264,7 @@ Real-World Projects
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liliputdev&theme=github_dark" height="180">
 </p>
 
----
+
 
 <!-- ===================================================== -->
 
