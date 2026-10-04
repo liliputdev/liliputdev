@@ -591,17 +591,26 @@ Focused on writing maintainable code, developing responsive interfaces, and inte
 
 
 ---
-☕ Support My Work
+
+## ☕ Support My Work
 
 <p align="center">
 
-<a href="https://www.buymeacoffee.com/YOUR_USERNAME"> <img src="https://gprm.itsvg.in/bmc.svg" width="120" alt="Buy Me a Coffee"> </a>
+<a href="https://www.buymeacoffee.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
+</a>
 
-<a href="https://www.paypal.me/YOUR_USERNAME"> <img src="https://gprm.itsvg.in/paypal.svg" width="120" alt="PayPal"> </a>
+<a href="https://www.paypal.me/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/PayPal-0070BA?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal">
+</a>
 
-<a href="https://www.patreon.com/YOUR_USERNAME"> <img src="https://gprm.itsvg.in/patreon.svg" width="120" alt="Patreon"> </a>
+<a href="https://www.patreon.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon">
+</a>
 
-<a href="https://ko-fi.com/YOUR_USERNAME"> <img src="https://gprm.itsvg.in/kofi.svg" width="120" alt="Ko-fi"> </a>
+<a href="https://ko-fi.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Ko--fi-13C3FF?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi">
+</a>
 
 </p>
 
