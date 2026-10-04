@@ -434,11 +434,6 @@ Focused on writing maintainable code, developing responsive interfaces, and inte
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=liliputdev&theme=github_dark"
-    width="49%"
-    alt="GitHub Statistics"
-  />
-  <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=liliputdev&theme=github_dark"
     width="49%"
     alt="Productive Coding Time"
