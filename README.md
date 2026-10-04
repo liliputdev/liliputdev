@@ -317,14 +317,6 @@ Real-World Projects
 
 </p>
 
-<p align="center">
-  <a href="https://github.com/liliputdev">GitHub</a>
-  •
-  <a href="https://www.linkedin.com/in/-abdunnur/">LinkedIn</a>
-  •
-  <a href="https://www.behance.net/_abdunnur">Behance</a>
-</p>
-
 ---
 
 <!-- ===================================================== -->
