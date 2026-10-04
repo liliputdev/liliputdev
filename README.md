@@ -330,6 +330,15 @@ Real-World Projects
 </p>
 
 
+<p align="center">
+  <img src="https://github.com/liliputdev/GitHub-Language-Stats/raw/master/generated/overview.svg#gh-dark-mode-only" />
+  <img src="https://github.com/liliputdev/GitHub-Language-Stats/raw/master/generated/overview.svg#gh-light-mode-only" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/liliputdev/GitHub-Language-Stats/raw/master/generated/languages.svg#gh-dark-mode-only" />
+  <img src="https://github.com/liliputdev/GitHub-Language-Stats/raw/master/generated/languages.svg#gh-light-mode-only" />
+</p>
 
 <!-- ===================================================== -->
 
