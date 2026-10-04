@@ -98,9 +98,9 @@ I enjoy transforming ideas into polished digital products — from **visual conc
 </p>
 
 <p align="center">
-  <sub>
+  
     Graphic Design • Branding • UI/UX • Motion Graphics • Video Editing • 3D • Illustration • Frontend • Backend • Full-Stack
-  </sub>
+  
 </p>
 
 <!-- ===================================================== -->
