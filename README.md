@@ -434,14 +434,6 @@ Focused on writing maintainable code, developing responsive interfaces, and inte
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=liliputdev&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=github_dark&hide_border=true"
-    width="100%"
-    alt="GitHub Lifetime Statistics"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=liliputdev&theme=github_dark"
     width="49%"
     alt="GitHub Statistics"
