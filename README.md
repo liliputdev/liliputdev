@@ -327,8 +327,6 @@ Real-World Projects
 
 <p align="center">
 
-### 🚀 Learning something new every day.
-
 <i>Design • Code • Create • Commit</i>
 
 </p>
