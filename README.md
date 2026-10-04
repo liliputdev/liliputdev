@@ -125,6 +125,8 @@ I enjoy transforming ideas into polished digital products — from **visual conc
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
 
 ### Frontend
@@ -132,6 +134,8 @@ I enjoy transforming ideas into polished digital products — from **visual conc
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
@@ -162,6 +166,7 @@ I enjoy transforming ideas into polished digital products — from **visual conc
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
 </p>
 
 ### Stacks
@@ -170,6 +175,22 @@ I enjoy transforming ideas into polished digital products — from **visual conc
   <img src="https://img.shields.io/badge/MERN_Stack-3FA037?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js_Stack-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Full--Stack-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+### Mobile App Development
+
+<p>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+</p>
+
+### Frameworks
+
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
 ### Design & Creative
@@ -182,6 +203,35 @@ I enjoy transforming ideas into polished digital products — from **visual conc
   <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
   <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webflow-146EF5?style=for-the-badge&logo=webflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Penpot-000000?style=for-the-badge&logo=penpot&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+</p>
+
+### No-Code & AI Development
+
+<p>
+  <img src="https://img.shields.io/badge/Lovable-000000?style=for-the-badge&logo=lovable&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webflow-146EF5?style=for-the-badge&logo=webflow&logoColor=white" />
+</p>
+
+### AI & Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI--Assisted_Development-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agentic_AI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge&logo=googlegemini&logoColor=white" />
+</p>
+
+### Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/Software_Engineering-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/RESTful_Services-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Development-1572B6?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </p>
 
 ### Tools, DevOps & Workflow
@@ -198,18 +248,6 @@ I enjoy transforming ideas into polished digital products — from **visual conc
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" />
   <img src="https://img.shields.io/badge/Environment_Variables-000000?style=for-the-badge&logo=dotenv&logoColor=white" />
 </p>
-
-### AI & Engineering
-
-<p>
-  <img src="https://img.shields.io/badge/AI--Assisted_Development-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agentic_AI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Software_Engineering-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/RESTful_Services-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web_Development-1572B6?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</p>
-
 
 
 <!-- ===================================================== -->
