@@ -428,17 +428,14 @@ Focused on writing maintainable code, developing responsive interfaces, and inte
     width="49%"
     alt="Repositories per Language"
   />
-</p>
-
-## 📈 GitHub Metrics
-
-<p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=liliputdev&theme=github_dark"
     width="49%"
     alt="Productive Coding Time"
   />
 </p>
+
+## 📈 GitHub Metrics
 
 <!-- ===================================================== -->
 
