@@ -542,7 +542,7 @@ Focused on writing maintainable code, developing responsive interfaces, and inte
 
 <!-- ===================================================== -->
 
-## Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -566,7 +566,28 @@ Focused on writing maintainable code, developing responsive interfaces, and inte
     <img src="https://img.shields.io/badge/Instagram-%40de.abdunnur-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @de.abdunnur">
   </a>
 
+  <a href="https://www.youtube.com/@YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/YouTube-%40YOUR__USERNAME-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+
+  <a href="https://x.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/X-%40YOUR__USERNAME-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+
+  <a href="https://stackoverflow.com/users/YOUR_ID/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-YOUR__USERNAME-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow">
+  </a>
+
+  <a href="https://codepen.io/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/CodePen-YOUR__USERNAME-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen">
+  </a>
+
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+
 </p>
+
 
 
 ---
