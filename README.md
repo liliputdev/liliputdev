@@ -325,7 +325,7 @@ Real-World Projects
 
 <!-- ===================================================== -->
 
-<p align="center">
+<p align="right">
 
 <i>Design • Code • Create • Commit</i>
 
