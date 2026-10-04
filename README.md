@@ -109,6 +109,7 @@ I enjoy transforming ideas into polished digital products — from **visual conc
 
 <!-- ===================================================== -->
 
+
 ## Technologies
 
 ### Languages
@@ -132,6 +133,7 @@ I enjoy transforming ideas into polished digital products — from **visual conc
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
   <img src="https://img.shields.io/badge/HeroUI-000000?style=for-the-badge&logo=heroui&logoColor=white" />
   <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=zustand&logoColor=white" />
@@ -160,6 +162,12 @@ I enjoy transforming ideas into polished digital products — from **visual conc
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+### Stacks
+
+<p>
+  <img src="https://img.shields.io/badge/MERN_Stack-3FA037?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ### Design & Creative
