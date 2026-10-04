@@ -346,4 +346,5 @@ Real-World Projects
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=liliputdev&label=PROFILE%20VIEWS&color=00C896&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/liliputdev?label=FOLLOWERS&style=for-the-badge&color=00C896" alt="GitHub Followers" />
 </p>
