@@ -209,6 +209,13 @@ I enjoy transforming ideas into polished digital products — from **visual conc
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
 
+### Automation
+
+<p>
+  <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="Zapier" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="IFTTT" height="40" />
+</p>
+
 ### No-Code & AI Development
 
 <p>
