@@ -315,23 +315,24 @@ Real-World Projects
 <!--                    Work Experience                   -->
 
 <!-- ===================================================== -->
-### Work Experience
 
-## The North Pole — Graphic Designer
+## Work Experience
+
+### The North Pole — Graphic Designer
 Mar 2025 – Aug 2026
 
 Created visual assets for digital and marketing campaigns, including social media graphics, promotional designs, and branded content.
 Designed engaging visual materials while maintaining brand consistency and professional design standards.
 Collaborated with team members to develop creative solutions for various design requirements.
 
-## Freelance — Visual Designer & Web Developer
+### Freelance — Visual Designer & Web Developer
 2023 – Present
 
 Designed logos, branding materials, social media graphics, thumbnails, posters, advertisements, and other digital assets for clients.
 Developed responsive and user-friendly websites using modern frontend technologies.
 Combined visual design and development skills to create cohesive digital experiences from concept to implementation.
 
-## Personal & Open-Source Projects
+### Personal & Open-Source Projects
 2024 – Present
 
 Building full-stack web applications while continuously expanding software engineering skills.
