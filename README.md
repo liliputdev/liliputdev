@@ -547,43 +547,43 @@ Focused on writing maintainable code, developing responsive interfaces, and inte
 <p align="center">
 
   <a href="https://github.com/liliputdev">
-    <img src="https://img.shields.io/badge/GitHub-%40liliputdev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub @liliputdev">
+    <img src="https://img.shields.io/badge/GitHub-%40liliputdev-111111?style=for-the-badge&logo=github&logoColor=c5ff4a&labelColor=060606" alt="GitHub @liliputdev">
   </a>
 
   <a href="https://www.linkedin.com/in/-abdunnur/">
-    <img src="https://img.shields.io/badge/LinkedIn-%40abdunnur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn @abdunnur">
+    <img src="https://img.shields.io/badge/LinkedIn-%40abdunnur-111111?style=for-the-badge&logo=linkedin&logoColor=c5ff4a&labelColor=060606" alt="LinkedIn @abdunnur">
   </a>
 
   <a href="https://www.behance.net/_abdunnur">
-    <img src="https://img.shields.io/badge/Behance-%40__abdunnur-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance @_abdunnur">
+    <img src="https://img.shields.io/badge/Behance-%40__abdunnur-111111?style=for-the-badge&logo=behance&logoColor=c5ff4a&labelColor=060606" alt="Behance @_abdunnur">
   </a>
 
   <a href="https://www.facebook.com/de.abdunnur">
-    <img src="https://img.shields.io/badge/Facebook-%40de.abdunnur-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook @de.abdunnur">
+    <img src="https://img.shields.io/badge/Facebook-%40de.abdunnur-111111?style=for-the-badge&logo=facebook&logoColor=c5ff4a&labelColor=060606" alt="Facebook @de.abdunnur">
   </a>
 
   <a href="https://www.instagram.com/de.abdunnur">
-    <img src="https://img.shields.io/badge/Instagram-%40de.abdunnur-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @de.abdunnur">
+    <img src="https://img.shields.io/badge/Instagram-%40de.abdunnur-111111?style=for-the-badge&logo=instagram&logoColor=c5ff4a&labelColor=060606" alt="Instagram @de.abdunnur">
   </a>
 
   <a href="https://www.youtube.com/@YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/YouTube-%40YOUR__USERNAME-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+    <img src="https://img.shields.io/badge/YouTube-%40YOUR__USERNAME-111111?style=for-the-badge&logo=youtube&logoColor=c5ff4a&labelColor=060606" alt="YouTube">
   </a>
 
   <a href="https://x.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/X-%40YOUR__USERNAME-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+    <img src="https://img.shields.io/badge/X-%40YOUR__USERNAME-111111?style=for-the-badge&logo=x&logoColor=c5ff4a&labelColor=060606" alt="X">
   </a>
 
   <a href="https://stackoverflow.com/users/YOUR_ID/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-YOUR__USERNAME-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-YOUR__USERNAME-111111?style=for-the-badge&logo=stackoverflow&logoColor=c5ff4a&labelColor=060606" alt="Stack Overflow">
   </a>
 
   <a href="https://codepen.io/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/CodePen-YOUR__USERNAME-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen">
+    <img src="https://img.shields.io/badge/CodePen-YOUR__USERNAME-111111?style=for-the-badge&logo=codepen&logoColor=c5ff4a&labelColor=060606" alt="CodePen">
   </a>
 
   <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-111111?style=for-the-badge&logo=gmail&logoColor=c5ff4a&labelColor=060606" alt="Email">
   </a>
 
 </p>
@@ -596,26 +596,26 @@ Focused on writing maintainable code, developing responsive interfaces, and inte
 
 <p align="center">
 
-<a href="https://www.buymeacoffee.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
-</a>
+  <a href="https://www.buymeacoffee.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-111111?style=for-the-badge&logo=buy-me-a-coffee&logoColor=c5ff4a&labelColor=060606" alt="Buy Me a Coffee">
+  </a>
 
-<a href="https://www.paypal.me/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/PayPal-0070BA?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal">
-</a>
+  <a href="https://www.paypal.me/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/PayPal-111111?style=for-the-badge&logo=paypal&logoColor=c5ff4a&labelColor=060606" alt="PayPal">
+  </a>
 
-<a href="https://www.patreon.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon">
-</a>
+  <a href="https://www.patreon.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Patreon-111111?style=for-the-badge&logo=patreon&logoColor=c5ff4a&labelColor=060606" alt="Patreon">
+  </a>
 
-<a href="https://ko-fi.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Ko--fi-13C3FF?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi">
-</a>
+  <a href="https://ko-fi.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Ko--fi-111111?style=for-the-badge&logo=ko-fi&logoColor=c5ff4a&labelColor=060606" alt="Ko-fi">
+  </a>
 
 </p>
 
 <p align="center">
-  <sub>If you find my work useful, consider supporting my creative and development journey.</sub>
+  If you find my work useful, consider supporting my creative and development journey.
 </p>
 
 ---
