@@ -75,14 +75,14 @@ I enjoy transforming ideas into polished digital products — from **visual conc
 
 ## Currently
 
-<p align="center">
+<p align="left">
   <img
     src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=700&pause=999999&color=FFFFFF&center=true&vCenter=true&width=900&height=45&lines=%E2%80%A2+Designing+modern+UI%2FUX+%26+digital+experiences"
     alt="Currently designing modern UI UX and digital experiences"
   />
 </p>
 
-<p align="center">
+<p align="left">
   <img
     src="https://skillicons.dev/icons?i=figma"
     width="22"
@@ -92,7 +92,7 @@ I enjoy transforming ideas into polished digital products — from **visual conc
   <strong>Designing modern UI/UX & digital experiences</strong>
 </p>
 
-<p align="center">
+<p align="left">
   <img
     src="https://skillicons.dev/icons?i=nextjs"
     width="22"
@@ -102,7 +102,7 @@ I enjoy transforming ideas into polished digital products — from **visual conc
   <strong>Exploring Next.js, TypeScript & Node.js</strong>
 </p>
 
-<p align="center">
+<p align="left">
   <img
     src="https://skillicons.dev/icons?i=react"
     width="22"
@@ -112,7 +112,7 @@ I enjoy transforming ideas into polished digital products — from **visual conc
   <strong>Building full-stack web applications</strong>
 </p>
 
-<p align="center">
+<p align="left">
   <img
     src="https://skillicons.dev/icons?i=nodejs"
     width="22"
@@ -122,7 +122,7 @@ I enjoy transforming ideas into polished digital products — from **visual conc
   <strong>Learning software engineering & backend development</strong>
 </p>
 
-<p align="center">
+<p align="left">
   <img
     src="https://skillicons.dev/icons?i=postman"
     width="22"
@@ -132,7 +132,7 @@ I enjoy transforming ideas into polished digital products — from **visual conc
   <strong>Exploring APIs, databases & full-stack architecture</strong>
 </p>
 
-<p align="center">
+<p align="left">
   <img
     src="https://skillicons.dev/icons?i=vercel"
     width="22"
