@@ -51,7 +51,7 @@
   </a>
   
   <a href="mailto:mr.abdunnur@gmail.com">
-  <img src="https://img.shields.io/badge/Email-%40mr.abdunnur-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Email @mr.abdunnur@gmail.com">
+  <img src="https://img.shields.io/badge/Email-%40mr.abdunnur-ffffff?style=for-the-badge&logo=Email&logoColor=white" alt="Email @mr.abdunnur@gmail.com">
   </a>
 
 </p>
