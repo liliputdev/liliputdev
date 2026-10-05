@@ -73,12 +73,17 @@ I enjoy transforming ideas into polished digital products — from **visual conc
 
 ### Currently
 
-* 🎨 Designing **modern UI/UX & digital experiences**
-* 🌱 Exploring **Next.js, TypeScript & Node.js**
-* 💻 Building **full-stack web applications**
-* 📚 Learning **software engineering & backend development**
-* 🔌 Exploring **APIs, databases & full-stack architecture**
-* 🚀 Turning ideas into **real-world products**
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=1800&pause=500&color=3FB950&center=true&vCenter=true&width=850&height=45&lines=%E2%80%BA+Designing+modern+UI%2FUX+%26+digital+experiences;%E2%80%BA+Exploring+Next.js%2C+TypeScript+%26+Node.js;%E2%80%BA+Building+full-stack+web+applications;%E2%80%BA+Learning+software+engineering+%26+backend+development;%E2%80%BA+Exploring+APIs%2C+databases+%26+full-stack+architecture;%E2%80%BA+Turning+ideas+into+real-world+products"
+    alt="Currently working on"
+  />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,nextjs,ts,nodejs,react,mongodb,git" height="42" alt="Current technologies">
+</p>
+
 
 
 
