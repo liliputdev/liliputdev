@@ -49,13 +49,14 @@
   <a href="https://www.instagram.com/de.abdunnur">
     <img src="https://img.shields.io/badge/Instagram-%40de.abdunnur-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @de.abdunnur">
   </a>
+  
+  <a href="mailto:mr.abdunnur@gmail.com">
+  <img src="https://img.shields.io/badge/Email-%40mr.abdunnur-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Email @mr.abdunnur@gmail.com">
+  </a>
 
 </p>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="22" alt="Email">
-  <b> Email</b>
-</a>
+
 
 
 <!-- ===================================================== -->
