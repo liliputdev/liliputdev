@@ -52,7 +52,10 @@
 
 </p>
 
-
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="22" alt="Email">
+  <b> Email</b>
+</a>
 
 
 <!-- ===================================================== -->
