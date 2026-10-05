@@ -16,7 +16,11 @@
 
 <h1 align="center">Hi, I'm Abdun Nur 👋</h1>
 
-<h3 align="center">Full-Stack Designer • Aspiring Software Engineer</h3>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=3FB950&center=true&vCenter=true&width=700&lines=Visual+Designer;Artist;Motion+Graphic+Designer;Frontend+Web+Developer;Backend+Web+Developer;Full-Stack+Web+Developer;Aspiring+Software+Engineer" alt="Animated professional roles" /> </p>
+
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1800&pause=700&color=3FB950&center=true&vCenter=true&width=600&lines=Designing+%E2%80%A2+Coding+%E2%80%A2+Building+%E2%80%A2+Exploring" alt="Designing Coding Building Exploring" /> </p>
+
+
 
 <p align="center">
   <b>Designing • Coding • Building • Exploring</b>
