@@ -71,14 +71,77 @@ I'm a **Full-Stack Designer and aspiring Software Engineer** focused on combinin
 
 I enjoy transforming ideas into polished digital products — from **visual concepts and UI design to functional web applications and backend systems**.
 
-<h3 align="center">Currently</h3>
+
+
+## Currently
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=1600&pause=400&color=3FB950&center=true&vCenter=true&width=850&height=40&lines=%E2%96%B6+Designing+modern+UI%2FUX+%26+digital+experiences;%E2%96%B6+Exploring+Next.js%2C+TypeScript+%26+Node.js;%E2%96%B6+Building+full-stack+web+applications;%E2%96%B6+Learning+software+engineering+%26+backend+development;%E2%96%B6+Exploring+APIs%2C+databases+%26+full-stack+architecture;%E2%96%B6+Turning+ideas+into+real-world+products"
-    alt="Currently"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=700&pause=999999&color=FFFFFF&center=true&vCenter=true&width=900&height=45&lines=%E2%80%A2+Designing+modern+UI%2FUX+%26+digital+experiences"
+    alt="Currently designing modern UI UX and digital experiences"
   />
 </p>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=figma"
+    width="22"
+    alt="Figma"
+  />
+  &nbsp;&nbsp;
+  <strong>Designing modern UI/UX & digital experiences</strong>
+</p>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=nextjs"
+    width="22"
+    alt="Next.js"
+  />
+  &nbsp;&nbsp;
+  <strong>Exploring Next.js, TypeScript & Node.js</strong>
+</p>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=react"
+    width="22"
+    alt="React"
+  />
+  &nbsp;&nbsp;
+  <strong>Building full-stack web applications</strong>
+</p>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=nodejs"
+    width="22"
+    alt="Node.js"
+  />
+  &nbsp;&nbsp;
+  <strong>Learning software engineering & backend development</strong>
+</p>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=postman"
+    width="22"
+    alt="APIs"
+  />
+  &nbsp;&nbsp;
+  <strong>Exploring APIs, databases & full-stack architecture</strong>
+</p>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=vercel"
+    width="22"
+    alt="Products"
+  />
+  &nbsp;&nbsp;
+  <strong>Turning ideas into real-world products</strong>
+</p>
+
 
 
 
