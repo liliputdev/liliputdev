@@ -77,13 +77,6 @@ I enjoy transforming ideas into polished digital products — from **visual conc
 
 <p align="left">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=700&pause=999999&color=FFFFFF&center=true&vCenter=true&width=900&height=45&lines=%E2%80%A2+Designing+modern+UI%2FUX+%26+digital+experiences"
-    alt="Currently designing modern UI UX and digital experiences"
-  />
-</p>
-
-<p align="left">
-  <img
     src="https://skillicons.dev/icons?i=figma"
     width="22"
     alt="Figma"
